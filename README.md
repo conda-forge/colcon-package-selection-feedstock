@@ -5,7 +5,7 @@ Home: https://github.com/colcon/colcon-package-selection
 
 Package license: Apache-2.0
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: An extension for colcon-core to select a subset of packages for processing.
 
